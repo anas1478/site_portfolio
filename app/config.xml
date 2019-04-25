@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+
+    <host>localhost</host>
+    <user>c1111306c_root</user>
+    <password></password>
+    <db>portfolio</db>
+    <table>utilisateur</table>
+    <table2>competences</table2> 
+    <table7>realisations</table7> 
+   
+</config>
